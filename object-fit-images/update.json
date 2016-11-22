@@ -1,8 +1,0 @@
-{
-  "packageManager": "github",
-  "name": "object-fit-images",
-  "repo": "bfred-it/object-fit-images",
-  "files": {
-    "include": ["dist/ofi.browser.js"]
-  }
-}
